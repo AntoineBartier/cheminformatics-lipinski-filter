@@ -17,6 +17,6 @@ The rule states that an orally active drug has no more than one violation of the
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/](https://github.com/)[TON_PSEUDO_GITHUB]/cheminformatics-lipinski-filter.git
+git clone [https://github.com/](https://github.com/)AntoineBartier/cheminformatics-lipinski-filter.git
 cd cheminformatics-lipinski-filter
 pip install -r requirements.txt
